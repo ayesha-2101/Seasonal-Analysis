@@ -1,0 +1,6 @@
+venv/
+*.dll
+*.pyd
+*.pkl
+*.exe
+~
