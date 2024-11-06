@@ -18,8 +18,7 @@
    - Activate the virtual environment
 
      ```bash
-     venv\Scripts\activate
-
+     source venv/Scripts/activate
      ```
 
    - Install the dependencies
@@ -27,3 +26,9 @@
    ```bash
    pip install -r requirements.txt
    ```
+
+3. Run the streamlit app:
+
+```bash
+streamlit run model.py
+```
